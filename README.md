@@ -1,6 +1,9 @@
-**AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+# **AOS C111/204 final project** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+Author: Bowen Wang
 
-For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
+Here, I demonstrate that machine learning (ML) classification models can predict the potential niche of the tree species Pinus monophylla (commonly known as the singleleaf pinyon pine). Using an ensemble of climate projections from statistically downscaled global climate models (GCMs) from the 5th Couple Model Intercomparison Project (CMIP5), I project how the potential niche of the singleleaf pinyon pines may change due to anthropogenic climate change. 
+
+[Here](https:) is the link to my project report, and [Here](https:) to the codes I used to develop the ML model and perform data analysis. 
 
 * To get data for your project, you could:
   * use **your own data** from a separate research activity
